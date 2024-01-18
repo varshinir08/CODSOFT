@@ -11,7 +11,7 @@ class RuleBot:
         "What do you do?",
         "why are you here?",
         "Are there many humans like you?",
-        "what do you consume for sustence?",
+        "what do you consume for sustaining?",
         "Is there Intelligent life on this planet?",
         "does Earth have a leader ?"
     )
